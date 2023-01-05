@@ -1,5 +1,7 @@
 //jshint esversion:6
 
+// Skeleton app with basic routes and responses
+// launched to a local hosted port.
 const express = require('express');
 const app = express();
 
